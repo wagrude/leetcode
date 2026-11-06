@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/wagrude/leetcode/tree/master/0014-longest-common-prefix) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/wagrude/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/wagrude/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
