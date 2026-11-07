@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/wagrude/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/wagrude/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wagrude/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -19,6 +20,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/wagrude/leetcode/tree/master/0015-3sum) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
@@ -65,5 +67,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/wagrude/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wagrude/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
