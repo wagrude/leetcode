@@ -42,6 +42,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/wagrude/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/wagrude/leetcode/tree/master/0049-group-anagrams) |
+| [1021-remove-outermost-parentheses](https://github.com/wagrude/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/wagrude/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wagrude/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wagrude/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/wagrude/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/wagrude/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
