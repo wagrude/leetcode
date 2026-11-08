@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/wagrude/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/wagrude/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
@@ -60,6 +61,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/wagrude/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wagrude/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wagrude/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/wagrude/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,8 +107,17 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
