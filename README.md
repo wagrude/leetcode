@@ -149,4 +149,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/wagrude/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/wagrude/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/wagrude/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
