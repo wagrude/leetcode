@@ -152,8 +152,13 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/wagrude/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/wagrude/leetcode/tree/master/0050-powx-n) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/wagrude/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/wagrude/leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/wagrude/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
