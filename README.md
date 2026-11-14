@@ -15,6 +15,7 @@
 | [0152-maximum-product-subarray](https://github.com/wagrude/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -64,6 +65,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/wagrude/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wagrude/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/wagrude/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/wagrude/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/wagrude/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
@@ -200,4 +202,8 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
