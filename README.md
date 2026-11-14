@@ -19,6 +19,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/wagrude/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/wagrude/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -47,6 +48,7 @@
 | [0075-sort-colors](https://github.com/wagrude/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/wagrude/leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
@@ -56,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/wagrude/leetcode/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/wagrude/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/wagrude/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +133,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/wagrude/leetcode/tree/master/0053-maximum-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,4 +213,8 @@
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
