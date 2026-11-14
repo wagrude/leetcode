@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/wagrude/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/wagrude/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wagrude/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/wagrude/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/wagrude/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/wagrude/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/wagrude/leetcode/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/wagrude/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/wagrude/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/wagrude/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
