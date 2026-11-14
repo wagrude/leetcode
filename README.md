@@ -73,6 +73,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/wagrude/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wagrude/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wagrude/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -80,6 +81,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/wagrude/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wagrude/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wagrude/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
@@ -89,11 +91,13 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/wagrude/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wagrude/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wagrude/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/wagrude/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
@@ -194,5 +198,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
