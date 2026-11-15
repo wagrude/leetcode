@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/wagrude/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/wagrude/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/wagrude/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Counting
 |  |
@@ -175,6 +177,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/wagrude/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/wagrude/leetcode/tree/master/0050-powx-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/wagrude/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -187,6 +190,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/wagrude/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
 |  |
