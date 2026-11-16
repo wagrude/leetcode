@@ -60,6 +60,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/wagrude/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/wagrude/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/wagrude/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/wagrude/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
