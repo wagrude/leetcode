@@ -61,6 +61,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/wagrude/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/wagrude/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/wagrude/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wagrude/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/wagrude/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/wagrude/leetcode/tree/master/0088-merge-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/wagrude/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Quicksort
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0053-maximum-subarray](https://github.com/wagrude/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/wagrude/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/wagrude/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/wagrude/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Counting
 |  |
