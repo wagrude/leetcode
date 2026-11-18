@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/wagrude/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/wagrude/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/wagrude/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/wagrude/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/wagrude/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/wagrude/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
@@ -226,4 +227,12 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/wagrude/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/wagrude/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
