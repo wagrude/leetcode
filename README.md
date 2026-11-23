@@ -18,6 +18,7 @@
 | [0152-maximum-product-subarray](https://github.com/wagrude/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/wagrude/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/wagrude/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/wagrude/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/wagrude/leetcode/tree/master/0050-powx-n) |
+| [1352-product-of-the-last-k-numbers](https://github.com/wagrude/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/wagrude/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
@@ -204,6 +206,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/wagrude/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/wagrude/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/wagrude/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
@@ -230,6 +233,7 @@
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/wagrude/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/wagrude/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Quickselect
 |  |
@@ -243,4 +247,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/wagrude/leetcode/tree/master/0078-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/wagrude/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
