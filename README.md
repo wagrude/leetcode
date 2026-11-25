@@ -31,6 +31,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/wagrude/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/wagrude/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/wagrude/leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/wagrude/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/wagrude/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wagrude/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -262,4 +265,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/wagrude/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
