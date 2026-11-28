@@ -32,6 +32,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/wagrude/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/wagrude/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/wagrude/leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/wagrude/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0229-majority-element-ii](https://github.com/wagrude/leetcode/tree/master/0229-majority-element-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2747-count-zero-request-servers](https://github.com/wagrude/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/wagrude/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/wagrude/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/wagrude/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/wagrude/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/wagrude/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/wagrude/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/wagrude/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
